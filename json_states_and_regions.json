@@ -1,0 +1,252 @@
+[
+    {
+        "Abbreviation": "AL",
+        "State Name": "Alabama",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "AK",
+        "State Name": "Alaska",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "AZ",
+        "State Name": "Arizona",
+        "Region": "Southwest"
+    },
+    {
+        "Abbreviation": "AR",
+        "State Name": "Arkansas",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "CA",
+        "State Name": "California",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "CO",
+        "State Name": "Colorado",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "CT",
+        "State Name": "Connecticut",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "DE",
+        "State Name": "Delaware",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "FL",
+        "State Name": "Florida",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "GA",
+        "State Name": "Georgia",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "HI",
+        "State Name": "Hawaii",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "ID",
+        "State Name": "Idaho",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "IL",
+        "State Name": "Illinois",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "IN",
+        "State Name": "Indiana",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "IA",
+        "State Name": "Iowa",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "KS",
+        "State Name": "Kansas",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "KY",
+        "State Name": "Kentucky",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "LA",
+        "State Name": "Louisiana",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "ME",
+        "State Name": "Maine",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "MD",
+        "State Name": "Maryland",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "MA",
+        "State Name": "Massachusetts",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "MI",
+        "State Name": "Michigan",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "MN",
+        "State Name": "Minnesota",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "MS",
+        "State Name": "Mississippi",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "MO",
+        "State Name": "Missouri",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "MT",
+        "State Name": "Montana",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "NE",
+        "State Name": "Nebraska",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "NV",
+        "State Name": "Nevada",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "NH",
+        "State Name": "New Hampshire",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "NJ",
+        "State Name": "New Jersey",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "NM",
+        "State Name": "New Mexico",
+        "Region": "Southwest"
+    },
+    {
+        "Abbreviation": "NY",
+        "State Name": "New York",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "NC",
+        "State Name": "North Carolina",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "ND",
+        "State Name": "North Dakota",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "OH",
+        "State Name": "Ohio",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "OK",
+        "State Name": "Oklahoma",
+        "Region": "Southwest"
+    },
+    {
+        "Abbreviation": "OR",
+        "State Name": "Oregon",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "PA",
+        "State Name": "Pennsylvania",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "RI",
+        "State Name": "Rhode Island",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "SC",
+        "State Name": "South Carolina",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "SD",
+        "State Name": "South Dakota",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "TN",
+        "State Name": "Tennessee",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "TX",
+        "State Name": "Texas",
+        "Region": "Southwest"
+    },
+    {
+        "Abbreviation": "UT",
+        "State Name": "Utah",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "VT",
+        "State Name": "Vermont",
+        "Region": "Northeast"
+    },
+    {
+        "Abbreviation": "VA",
+        "State Name": "Virginia",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "WA",
+        "State Name": "Washington",
+        "Region": "West"
+    },
+    {
+        "Abbreviation": "WV",
+        "State Name": "West Virginia",
+        "Region": "Southeast"
+    },
+    {
+        "Abbreviation": "WI",
+        "State Name": "Wisconsin",
+        "Region": "Midwest"
+    },
+    {
+        "Abbreviation": "WY",
+        "State Name": "Wyoming",
+        "Region": "West"
+    }
+]
